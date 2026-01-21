@@ -6,3 +6,4 @@ public class CharacterData : ScriptableObject
     public string idleAnimationName;
     public string readyAnimationName;
 }
+
