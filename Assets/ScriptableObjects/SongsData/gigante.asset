@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a1dbd1c49f6dd024c9fba9a9b8e0c6e3, type: 3}
-  m_Name: polaski
+  m_Name: gigante
   m_EditorClassIdentifier: Assembly-CSharp::SongData
-  songName: polaski
-  animationName: Swing
+  songName: gigante
+  animationName: Can
+  notesConfig: {fileID: 4900000, guid: be9013ebd4469a24aa0cf460977fcca7, type: 3}
+  speed: 200

@@ -5,5 +5,7 @@ public class SongData : ScriptableObject
 {
    public string songName;
    public string animationName;
+   public TextAsset notesConfig;
+   public float speed;
 }
 

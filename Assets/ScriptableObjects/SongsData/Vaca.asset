@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   songName: Vaca
   animationName: Twist
+  notesConfig: {fileID: 4900000, guid: be9013ebd4469a24aa0cf460977fcca7, type: 3}
+  speed: 200
