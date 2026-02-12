@@ -267,6 +267,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1650588364209415634, guid: e4bc73ec1ef7f484cb13ff9c9d9573ab, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Show Text
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &21614645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -496,7 +508,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 0.2784314}
+  m_Color: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 0.49803922}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2678,6 +2690,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1650588364209415634, guid: e4bc73ec1ef7f484cb13ff9c9d9573ab, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Show Text
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!50 &880993294
 Rigidbody2D:
   serializedVersion: 5
@@ -4219,7 +4243,7 @@ MonoBehaviour:
           m_StringArgument: Victory
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1833092564}
+      - m_Target: {fileID: 1337605208}
         m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
         m_MethodName: Play
         m_Mode: 5
@@ -5230,6 +5254,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1650588364209415634, guid: e4bc73ec1ef7f484cb13ff9c9d9573ab, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
+        m_MethodName: Play
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Show Text
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1619207695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5690,7 +5726,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Lane
   notesPivot: {fileID: 1584955348}
-  notePrefab: {fileID: 902810311530859345, guid: d154e9b4505286343ba08acce26d49ad, type: 3}
+  notePrefab: {fileID: 3272871688432975975, guid: a8a87b60d4503c847885877604475c26, type: 3}
 --- !u!225 &1942599214
 CanvasGroup:
   m_ObjectHideFlags: 0
